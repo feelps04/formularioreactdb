@@ -1,0 +1,27 @@
+{
+  "name": "formulario",
+  "version": "1.0.0",
+  "description": "Descrição do seu projeto",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+    
+  },
+  "devDependencies": {
+    "eslint": "^7.30.0",
+    "prettier": "^2.3.2"
+
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "lint": "eslint src/**/*.js"
+
+  },
+  "keywords": ["React", "Formulário", "Frontend"],
+  "author": "Felipe",
+  "license": "ISC"
+}
